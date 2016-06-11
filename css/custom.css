@@ -220,3 +220,17 @@ header {
 img {
   max-width: 100%;
   height: auto; }
+
+.about h1 {
+  font-size: 24px;
+  font-weight: 100; }
+
+.about p {
+  font-size: 18px;
+  line-height: 1.25;
+  font-weight: 100;
+  padding: 10px 0; }
+  .about p.first {
+    margin-top: 30px; }
+  .about p.text-upper {
+    text-transform: uppercase; }
